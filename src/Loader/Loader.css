@@ -1,3 +1,8 @@
+.loader-wrap {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
 .lds-dual-ring {
     display: inline-block;
     width: 80px;
